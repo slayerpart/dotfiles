@@ -1,0 +1,1 @@
+{"atom-text-editor:not(mini).autocomplete-active":{"enter":"editor:newline"},"atom-text-editor[data-grammar~=\"jsx\"]:not([mini])":{"tab":"emmet:expand-abbreviation-with-tab"}}

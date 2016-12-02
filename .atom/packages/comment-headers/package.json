@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+        "spec": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/apm-install-dir-11695-43314-1a3xgae"
+    ]
+  ],
+  "_from": "../d-11695-43314-1k2ttnv/package.tgz",
+  "_id": "comment-headers@2.15.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/comment-headers",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+    "spec": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11695-43314-1k2ttnv/package.tgz",
+  "_shasum": "75b0a5fc8b9a346551ea3db06c43d24842ed7d90",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/d-11695-43314-1k2ttnv/package.tgz",
+  "_where": "/private/var/folders/gk/tv6d000n6j32ttt0t4lqc1kc0000gn/T/apm-install-dir-11695-43314-1a3xgae",
+  "activationCommands": {
+    "atom-text-editor": [
+      "comment-headers:insert"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/envygeeks/atom-comment-headers/issues"
+  },
+  "dependencies": {},
+  "description": "Comment Headers",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/envygeeks/atom-comment-headers#readme",
+  "license": "MIT",
+  "main": "./index",
+  "name": "comment-headers",
+  "optionalDependencies": {},
+  "readme": "# comment-headers package\n\nAdds fancy comment headers to your source:\n\n```\n# -----------------------------------------------------------------------------\n# ^ OH Look a comment header to make my comments easier to notice and read!\n# ----------------------------------------------------------------------------- \n```\n",
+  "readmeFilename": "Readme.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envygeeks/atom-comment-headers.git"
+  },
+  "version": "2.15.0"
+}

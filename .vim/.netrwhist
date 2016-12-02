@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Marvin/Documents/work/ruby/testproject/app'
+let g:netrw_dirhist_2='/Users/Marvin/Documents/work/ruby/testproject'
+let g:netrw_dirhist_3='/Users/Marvin/Documents/work/ruby/testproject/app/controllers'
+let g:netrw_dirhist_4='/Users/Marvin/Documents/work/ruby/testproject/app/views'
+let g:netrw_dirhist_5='/Users/Marvin/Documents/work/ruby/testproject/app/views/example'
+let g:netrw_dirhist_6='/etc'
+let g:netrw_dirhist_7='/Users/Marvin/Documents/Studium/ti2_coding/.git'
+let g:netrw_dirhist_8='/Users/Marvin/Documents/Studium/Bachelorprojekt/webapp/.ropeproject'
